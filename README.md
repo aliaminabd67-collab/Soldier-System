@@ -59,6 +59,6 @@ Name: ALI AMIN
 
 Student ID: 202512480
 
-Course: Database Systems & Management
+Course: SQL
 
 Date: November 2026
