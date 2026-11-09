@@ -58,6 +58,8 @@ Change Order: Successfully modified schema via ALTER TABLE soldiers ADD COLUMN e
 Name: ALI AMIN
 
 Student ID: 202512480
+student ID: 202511452
+student ID: 202511816
 
 Course: SQL
 
